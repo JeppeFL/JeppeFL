@@ -14,7 +14,7 @@ I’m passionate about frontend development, system architecture, and IT securit
 - **Surf’s Up**: A .NET project with Entity Framework Core and SQLite.  
 - **Blazor Family Tree**: A law firm project for inheritance calculation and visualization.  
 
-## 💞️ Looking to Collaborate On  
+## 🤝 Looking to Collaborate On  
 - React and React Native projects  
 - IT security-related applications  
 - System architecture and backend integrations  
